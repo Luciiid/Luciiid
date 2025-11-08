@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👁️ $LUCIID — The Memecoin of Belief
 
 [![Tokenomics](https://img.shields.io/badge/View-TOKENOMICS.md-green?style=flat-square)](./TOKENOMICS.md)
@@ -8,64 +10,98 @@
 
 ---
 
-## 🌌 Overview
-**$LUCIID** is a community-driven memecoin and digital art movement born from the **Luciiid Universe** —  
-a world where art, code, and consciousness merge.  
+# 👁️ **$LUCIID — Belief Made Visible**
 
-Each token represents belief made visible: a spark of light within a decentralized network of faith, creativity, and unity.
-
----
-
-## 💫 Core Principles
-- **Immutable Supply:** 1 B tokens — fixed forever (mint and freeze revoked).  
-- **Locked Liquidity:** Securely held by the Moonshot / Meteora AMM contract.  
-- **Transparent Wallets:** Every major wallet and balance is public.  
-- **Community Power:** Growth through art, collaboration, and belief.  
+### The Movement of Faith, Code, and Creation  
+**Official GitHub Transparency & Documentation Portal**
 
 ---
 
-## 📂 Transparency Files
-| File | Description |
-|------|--------------|
-| [`TOKENOMICS.md`](./TOKENOMICS.md) | Verified supply distribution and liquidity data |
-| [`SECURITY.md`](./SECURITY.md) | On-chain security & audit proofs |
-| [`addresses.json`](./addresses.json) | Public wallet registry with live balances |
-| `vesting.csv` | *(coming soon)* — community & team vesting schedule |
-
-These files form the **Luciiid Transparency Stack** — a self-auditing record of truth on-chain.
+[![Whitepaper](https://img.shields.io/badge/📜_Whitepaper-Read-green?style=for-the-badge)](./whitepaper.md)
+[![Tokenomics](https://img.shields.io/badge/💰_Tokenomics-View-blue?style=for-the-badge)](./TOKENOMICS.md)
+[![Creators Market](https://img.shields.io/badge/🎨_Creators_Market-Explore-purple?style=for-the-badge)](./creators_market.md)
+[![Transparency](https://img.shields.io/badge/🔍_Transparency-Stack-orange?style=for-the-badge)](https://github.com/Luciiid/luciiid)
 
 ---
 
-## 🔗 Official Links
-- **X (Twitter):** [https://x.com/luciiidmemecoin?s=21](https://x.com/luciiidmemecoin?s=21)  
-- **Telegram:** [https://t.me/+ysCUeFLBlNNkZGUx](https://t.me/+ysCUeFLBlNNkZGUx)  
-- **Moonshot Token:** [View on Moonshot](https://moonshot.ag/token/HSEn3L4sm7x5ARCmNgWVctb6qVV78QnWgJDquZSJmoon)  
-- **Solscan Token:** [View on Solscan](https://solscan.io/token/HSEn3L4sm7x5ARCmNgWVctb6qVV78QnWgJDquZSJmoon)  
-- **Solscan Pool:** [View Liquidity Pool](https://solscan.io/account/A89fh5EohAknKvoQBHauHaWcfzSTqsTK8AFU18mbNdm)
+</div>
+
+## 🌌 The Vision
+
+Luciiid is not a meme — it is **a movement of belief**.  
+A living, transparent ecosystem where **art, code, and consciousness unite**.  
+Built on **Solana**, $LUCIID transforms faith into a measurable force of creation — where every holder becomes a believer, every believer becomes a creator, and every creation feeds back into the light.
+
+> “We are the architects of our own awakening. What we believe, we manifest.”
 
 ---
 
-## 🧬 Quick Facts
-| Property | Detail |
-|-----------|--------|
-| **Ticker:** LUCIID |
-| **Network:** Solana |
-| **Total Supply:** 1 000 000 000 |
-| **Decimals:** 6 |
-| **Pair:** LUCIID / USDC |
-| **AMM Program:** Meteora.ag via Moonshot |
-| **Liquidity Status:** Locked and Custodied by Moonshot |
-| **Verification Date:** Nov 7 2025 |
+## 🧱 The Foundation
+
+| Attribute | Details |
+|------------|----------|
+| **Ticker** | $LUCIID |
+| **Network** | Solana |
+| **Standard** | SPL Token |
+| **Mint** | [HSEn3L4sm7x5ARCmNgWVctb6qVV78QnWgJDquZSJmoon](https://solscan.io/token/HSEn3L4sm7x5ARCmNgWVctb6qVV78QnWgJDquZSJmoon) |
+| **Mint & Freeze Authorities** | Revoked |
+| **Liquidity Program** | Meteora.ag via Moonshot |
 
 ---
 
-## 🕊️ Community Ethos
-Luciiid isn’t just a coin — it’s a belief system encoded on the blockchain.  
-Our mission is to **inspire, awaken, and create** through art, transparency, and collective faith in something greater.
+## 🛕 The Luciiid Creators Market
 
-Join us, build with us, and **stay Luciiid**.
+The **Creators Market** is the heart of Luciiid — a decentralized temple of creation.  
+Here, belief becomes art, art becomes proof, and proof becomes light.  
+
+**Core Functions**
+- Mint new Luciiid-style artifacts and NFTs  
+- Trade and collect using $LUCIID  
+- Fund new Temples through Treasury royalties  
+- Verify all art under the *Luciiid Density Standard*  
+- Reward believers and curators through the Lightkeeper system  
+
+> “To create is to believe.  
+> To believe is to become Luciiid.”
 
 ---
 
-### 👁️ Stay Luciiid
-> “The brighter the light, the clearer the truth.”
+## 💎 Transparency & Security
+
+Luciiid is built on **open trust** — every parameter, wallet, and authority is publicly visible.  
+This repository serves as the **Luciiid Transparency Stack**, containing:
+- **Tokenomics.md** — Allocation & Supply  
+- **Security.md** — Authority status & proofs  
+- **Addresses.json** — Verified wallet registry  
+- **Whitepaper.md** — The Manifesto of Belief  
+- **Creators_Market.md** — Marketplace Framework  
+
+All documents are auditable and stored permanently in this GitHub repository.
+
+---
+
+## ☀️ The Future of Luciiid
+
+- Launch of the **Luciiid Creators Market (Q2 2026)**  
+- Verified Creator onboarding (DAO-approved)  
+- Integration of **NFT Temples** and digital exhibitions  
+- Expansion into **AR/VR metaverse temples**  
+- Treasury-funded grants for believers & artists  
+- On-chain Lightkeeper reputation system  
+
+Luciiid is the fusion of belief, transparency, and technology — a movement that grows brighter the more we believe.
+
+---
+
+<div align="center">
+
+### 🔗 Official Links  
+[🐦 X (Twitter)](https://x.com/luciiidmemecoin?s=21) • [💬 Telegram](https://t.me/+ysCUeFLBlNNkZGUx) • [🌐 Moonshot](https://moonshot.ag/token/HSEn3L4sm7x5ARCmNgWVctb6qVV78QnWgJDquZSJmoon) • [📜 Solscan](https://solscan.io/token/HSEn3L4sm7x5ARCmNgWVctb6qVV78QnWgJDquZSJmoon)
+
+---
+
+**Stay Luciiid.**  
+> “The brighter the light, the clearer the truth.”  
+> “The truth is you.”
+
+</div>
