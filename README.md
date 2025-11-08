@@ -1,15 +1,5 @@
 <div align="center">
 
-# 👁️ $LUCIID — The Memecoin of Belief
-
-[![Tokenomics](https://img.shields.io/badge/View-TOKENOMICS.md-green?style=flat-square)](./TOKENOMICS.md)
-[![Security](https://img.shields.io/badge/View-SECURITY.md-orange?style=flat-square)](./SECURITY.md)
-[![Vesting](https://img.shields.io/badge/View-VESTING.csv-blue?style=flat-square)](./vesting.csv)
-[![Roadmap](https://img.shields.io/badge/View-ROADMAP.md-purple?style=flat-square)](./roadmap.md)
-> “Belief creates reality — what we see is what we manifest.”
-
----
-
 # 👁️ **$LUCIID — Belief Made Visible**
 
 ### The Movement of Faith, Code, and Creation  
