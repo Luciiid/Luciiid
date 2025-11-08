@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/luciiid-banner-1280x320.png" alt="$LUCIIID — Belief Made Visible" width="100%">
-</p>
-
 <div align="center">
 
 # 👁️ **$LUCIIID — Belief Made Visible**
