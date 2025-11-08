@@ -7,9 +7,9 @@
 
 ---
 
-[![🏛️ Whitepaper](https://img.shields.io/badge/🏛️_Whitepaper-Read-green?style=for-the-badge)](./whitepaper.md)
+[![🏛️ Whitepaper](https://img.shields.io/badge/🏛️_Whitepaper-Read-green?style=for-the-badge)](./WHITEPAPER.md)
 [![💰 Tokenomics](https://img.shields.io/badge/💰_Tokenomics-View-blue?style=for-the-badge)](./TOKENOMICS.md)
-[![🎨 Creators Market](https://img.shields.io/badge/🎨_Creators_Market-Explore-purple?style=for-the-badge)](./creators_market.md)
+[![🎨 Creators Market](https://img.shields.io/badge/🎨_Creators_Market-Explore-purple?style=for-the-badge)](./CREATORS_MARKET.md)
 [![🛡️ Security](https://img.shields.io/badge/🛡️_Security-Proof-orange?style=for-the-badge)](./SECURITY.md)
 [![📂 Transparency](https://img.shields.io/badge/📂_Transparency-Stack-grey?style=for-the-badge)](https://github.com/Luciiid/luciiid)
 
